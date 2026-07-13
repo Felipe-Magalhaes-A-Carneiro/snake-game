@@ -42,7 +42,7 @@ snake-game/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.comhttps://github.com/Felipe-Magalhaes-A-Carneiro/snake-game/snake-game.git
 cd snake-game
 ```
 
